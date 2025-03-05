@@ -64,6 +64,9 @@ Structured learning plan to track progress in AWS, Ethical Hacking, and building
 ---
 
 ## **🔗 Useful Links**
-- [TryHackMe Profile](#)
-- [AWS Certification Progress](#)
+- [[TryHackMe Profile](#)](https://tryhackme.com/p/chetubetcha)
 - [Stalkerware Project GitHub Repo](#)
+
+## **AWS Certification Progress**
+- **AWS Cloud Practitioner Essentials**: AWS Cloud Practitioner: 40%
+- **Next Step**: Expected completion by April 10th
