@@ -76,7 +76,8 @@ Overall, it was a productive week with significant progress in AWS certification
 
 ## **🔗 Useful Links**
 - [[TryHackMe Profile](#)](https://tryhackme.com/p/chetubetcha)
-- [Stalkerware Project GitHub Repo](#)
+- [Stalkerware Project GitHub Repo](#)](https://github.com/chetflowers/getbyebye-site.git)
+- [Stalkerware Project Progress GitHub Repo](#)]
 
 ## **AWS Certification Progress**
 - **AWS Cloud Practitioner Essentials**: AWS Cloud Practitioner: 40%
