@@ -80,5 +80,5 @@ Overall, it was a productive week with significant progress in AWS certification
 - [Stalkerware Project Progress GitHub Repo](#)]
 
 ## **AWS Certification Progress**
-- **AWS Cloud Practitioner Essentials**: AWS Cloud Practitioner: 40%
-- **Next Step**: Expected completion by April 10th
+- **AWS Cloud Practitioner Essentials**: AWS Cloud Practitioner: 100%
+- **Next Step**: Expected completion by March 7th
