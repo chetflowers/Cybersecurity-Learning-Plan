@@ -42,24 +42,30 @@ Structured learning plan to track progress in AWS, Ethical Hacking, and building
 
 ---
 
-## Weekly Progress
-### Week 1 (March 10 - March 14)
-- ✅ 
-- ✅ 
-- ✅ 
-- *To be updated on Friday…*
+# Week 1 Journal Update – Cybersecurity Learning Plan
 
-### Week 2 (March 17 - March 21)
-- ✅ 
-- ✅ 
-- ✅ 
-- *To be updated on Friday…*
-  
-- ### Week 3 (March 24 - March 28)
-- ✅ 
-- ✅ 
-- ✅ 
-- *To be updated on Friday…* 
+## AWS Certification
+- Completed AWS Cloud Practitioner Essentials and received my certificate.
+- Shared the certificate on LinkedIn.
+
+## Job Application Update
+- Initially tried Sonara.ai, but it wasn't as effective as expected.
+- Now focusing on applying for IT support, helpdesk, and junior cybersecurity analyst roles through LinkedIn.
+
+## Stalkerware Project ("GetByeBye") Progress
+- Set up the GitHub repository and configured GitHub Pages for the project.
+- Secured the domain (getbyebye.com) and connected it with proper DNS settings.
+- Developed key features including the "Am I Being Tracked?" quiz and linked security guide pages.
+- Fixed navigation issues and refined core security content.
+- Outlined next steps: building a Stalkerware Detection Checklist, planning a mobile scanner, and creating a resources page.
+
+Overall, it was a productive week with significant progress in AWS certification, targeted job search efforts, and robust development on the Stalkerware project.
+
+# Week 2 Journal Update – Cybersecurity Learning Plan
+
+# Week 3 Journal Update – Cybersecurity Learning Plan
+
+# Week 4 Journal Update – Cybersecurity Learning Plan
 
 ---
 
