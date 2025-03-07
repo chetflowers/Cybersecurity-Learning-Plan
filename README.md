@@ -49,22 +49,28 @@ Structured learning plan to track progress in AWS, Ethical Hacking, and building
 - Shared the certificate on LinkedIn.
 
 ## TryHackMe Training
-- Completed TriHackMe labs in Network Security, Digital Forensics, and Security Operations.
-- Enhanced search skills while learning to use tools like Nmap, Shodan.io, VirusTotal, and Censys.
+- Completed TryHackMe labs in Network Security, Digital Forensics, and Security Operations.
+- Enhanced search skills using tools like Nmap, Shodan.io, VirusTotal, and Censys.
 - Gained introductory experience with Active Directory for Windows.
 
 ## Job Application Update
 - Initially tried Sonara.ai, but it wasn't as effective as expected.
 - Now focusing on applying for IT support, helpdesk, and junior cybersecurity analyst roles through LinkedIn.
 
-## Stalkerware Project ("GetByeBye") Progress
-- Set up the GitHub repository and configured GitHub Pages for the project.
-- Secured the domain (getbyebye.com) and connected it with proper DNS settings.
-- Developed key features including the "Am I Being Tracked?" quiz and linked security guide pages.
-- Fixed navigation issues and refined core security content.
-- Outlined next steps: building a Stalkerware Detection Checklist, planning a mobile scanner, and creating a resources page.
+## GetByeBye – Digital Privacy & Stalkerware Detection
+GetByeBye is a digital privacy tool designed to help users determine if their devices are being stalked. Originally known as ByeByeStalker, the project has been rebranded to GetByeBye.
 
-Overall, it was a productive week with significant progress in AWS certification, hands-on cybersecurity training, targeted job search efforts, and robust development on the Stalkerware project.
+**Features:**
+- **"Am I Being Tracked?" Quiz:** A self-assessment tool to evaluate potential stalkerware risks.
+- **Security Guides:** Step-by-step instructions for detecting and removing spyware.
+- **Email Updates:** Stay informed about digital security and privacy.
+- **Resources:** A curated list of anti-stalkerware tools and privacy protection services.
+
+**Development Status:**
+- Security guides for low, medium, and high-risk users are complete.
+- Upcoming features include a Stalkerware Detection Checklist and a full Resources Page.
+
+Overall, it was a productive week with significant progress in AWS certification, hands-on cybersecurity training, targeted job search efforts, and robust development on the GetByeBye project.
 
 # Week 2 Journal Update – Cybersecurity Learning Plan
 
@@ -74,11 +80,10 @@ Overall, it was a productive week with significant progress in AWS certification
 
 ---
 
-## **🔗 Useful Links**
-- [[TryHackMe Profile](#)](https://tryhackme.com/p/chetubetcha)
-- [Stalkerware Project GitHub Repo](#)](https://github.com/chetflowers/getbyebye-site.git)
-- [Stalkerware Project Progress GitHub Repo](#)]
-
+## Useful Links
+- [GetByeBye Repository](https://github.com/chetflowers/getbyebye-site)
+- [GetByeBye Progress Journal](https://github.com/chetflowers/getbyebye-progress)
+- [TryHackMe Profile](https://tryhackme.com/p/chetubetcha)
+  
 ## **AWS Certification Progress**
-- **AWS Cloud Practitioner Essentials**: AWS Cloud Practitioner: 100%
-- **Next Step**: Expected completion by March 7th
+- **AWS Cloud Practitioner Essentials**: AWS Cloud Practitioner: 93.3% - Completed March 7th
