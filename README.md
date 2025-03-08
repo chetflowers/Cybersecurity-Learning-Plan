@@ -58,19 +58,24 @@ Structured learning plan to track progress in AWS, Ethical Hacking, and building
 - Now focusing on applying for IT support, helpdesk, and junior cybersecurity analyst roles through LinkedIn.
 
 ## GetByeBye – Digital Privacy & Stalkerware Detection
-GetByeBye is a digital privacy tool designed to help users determine if their devices are being stalked. Originally known as ByeByeStalker, the project has been rebranded to GetByeBye.
+- **Overview:**  
+  GetByeBye is a digital privacy tool designed to help users determine if their devices are being stalked. Originally known as ByeByeStalker, the project has been rebranded to GetByeBye.
+- **Features:**
+  - **"Am I Being Tracked?" Quiz:** A self-assessment tool to evaluate potential stalkerware risks.
+  - **Security Guides:** Step-by-step instructions for detecting and removing spyware.
+  - **Email Updates:** Stay informed about digital security and privacy.
+  - **Resources:** A curated list of anti-stalkerware tools and privacy protection services.
+- **Development Status:**
+  - Security guides for low, medium, and high-risk users are complete.
+  - Upcoming features include a Stalkerware Detection Checklist and a full Resources Page.
 
-**Features:**
-- **"Am I Being Tracked?" Quiz:** A self-assessment tool to evaluate potential stalkerware risks.
-- **Security Guides:** Step-by-step instructions for detecting and removing spyware.
-- **Email Updates:** Stay informed about digital security and privacy.
-- **Resources:** A curated list of anti-stalkerware tools and privacy protection services.
-
-**Development Status:**
-- Security guides for low, medium, and high-risk users are complete.
-- Upcoming features include a Stalkerware Detection Checklist and a full Resources Page.
-
-Overall, it was a productive week with significant progress in AWS certification, hands-on cybersecurity training, targeted job search efforts, and robust development on the GetByeBye project.
+## Next Step
+- **Whizlabs Exam Prep SCS-C02: AWS Certified Security – Specialty Specialization:**  
+  Prepare for the AWS Certified Security – Specialty exam with the Whizlabs specialization series, focusing on building and executing AWS security solutions. This step will help hone skills in:
+  - Threat detection, logging, and monitoring
+  - Infrastructure security
+  - Identity and access management
+  - Data protection and security governance
 
 # Week 2 Journal Update – Cybersecurity Learning Plan
 
