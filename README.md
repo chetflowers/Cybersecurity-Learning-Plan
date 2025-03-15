@@ -77,7 +77,40 @@ Structured learning plan to track progress in AWS, Ethical Hacking, and building
   - Identity and access management
   - Data protection and security governance
 
+---
+
 # Week 2 Journal Update – Cybersecurity Learning Plan
+
+**Note:** This update is a day late due to a family emergency.
+
+## Coursera Course
+- **Exam Prep SCS CO2 AWS Certified Security Specialty (Wyslabs):**  
+  Started the course and completed approximately 20%. Covered advanced cloud security concepts, threat modeling in AWS, and hands-on labs for incident response.
+
+## Retro Blog
+- Completed the third installment of my retro blog, discussing the evolution of cybersecurity tools from legacy systems to modern cloud defenses.
+
+## Coding on Memo.org
+- Made significant progress in the front-end developer course, focusing on JavaScript fundamentals, DOM manipulation, and responsive design principles.
+
+## TryHackMe Training
+- Learned about the Windows command line and Windows PowerShell.
+- Next up: Diving into Linux shell scripting and command-line techniques for system administration.
+
+## Cyber Detective Game
+- Participated in a cyber detective game on [kc7cyber.com](https://kc7cyber.com), which enhanced my threat hunting and forensic analysis skills.
+
+## Webinar: SANS New to Cyber Summit 2025
+- Attended the SANS New to Cyber Summit 2025 and took detailed notes on:
+  - **Technical Insights:** Latest trends in threat detection, incident response automation, and emerging cloud security vulnerabilities.
+  - **Networking:** Enjoyed engaging discussions with industry professionals and initiated my search for a mentor.
+  - **Career Development:** Gained valuable advice on resume optimization and learned what employers are specifically seeking in cybersecurity candidates.
+
+## AWS Cloud Penetration Testing Path
+- Committed to pursuing a career as an AWS Cloud Penetration Tester.
+- Outlined a course path that includes hands-on labs and certifications to build expertise in cloud security and penetration testing.
+
+---
 
 # Week 3 Journal Update – Cybersecurity Learning Plan
 
