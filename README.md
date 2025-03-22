@@ -114,9 +114,47 @@ Structured learning plan to track progress in AWS, Ethical Hacking, and building
 
 # Week 3 Journal Update – Cybersecurity Learning Plan
 
+## Retro Blog Post: Case File Number 004 – The Phantom in Port 53
+- Analyzed text TXT record abuse.
+- Investigated low and slow exfiltration techniques.
+- Explored DNS traffic anomalies, DNS filtering challenges, and issues related to legacy devices.
+
+## Memo.org Front-End Developer Course Progress
+Completed the following sections:
+- Web Page Structure
+- Head Title & Doctype Declaration
+- Linking Style Sheets
+- Element Selectors
+- Class Selectors
+- ID Selectors
+- Font Properties
+- Height & Width Specifications
+- Borders
+- CSS Basics 1
+- CSS Basics 1 Mastered
+- Building with a Box Model and Padding
+- Margin
+
+## Upcoming Focus & Goals
+- **Recommit to Schedule:** Back on track and refocusing on my structured learning plan.
+- **Coursera:** Dive deeper into new courses.
+- **TryHackMe:** Continue with hands-on cybersecurity labs.
+- **Webinar:** Plan to attend a SANS AI Cybersecurity webinar next week.
+
+---
+
 # Week 4 Journal Update – Cybersecurity Learning Plan
 
 ---
+
+# Week 5 Journal Update – Cybersecurity Learning Plan
+
+---
+
+# Week 6 Journal Update – Cybersecurity Learning Plan
+
+---
+
 
 ## Useful Links
 - [GetByeBye Repository](https://github.com/chetflowers/getbyebye-site)
