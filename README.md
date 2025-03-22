@@ -44,6 +44,16 @@ Structured learning plan to track progress in AWS, Ethical Hacking, and building
 
 # Week 1 Journal Update – Cybersecurity Learning Plan
 
+## Retro Blog Post: Case File Number 001 – The Phisherman's Prize
+- Examined evolving phishing tactics and their role in social engineering attacks.
+- Investigated obfuscated scripts designed to bypass detection mechanisms.
+- Analyzed complex redirect chains used to compromise user security.
+
+## Retro Blog Post: Case File Number 002 – The Phantom Packet
+- Investigated packet sniffing techniques to detect unauthorized network traffic.
+- Analyzed anomalous traffic patterns that hint at covert data exfiltration.
+- Explored methods of obfuscation and spoofing used to conceal malicious activity.
+
 ## AWS Certification
 - Completed AWS Cloud Practitioner Essentials and received my certificate.
 - Shared the certificate on LinkedIn.
@@ -87,8 +97,10 @@ Structured learning plan to track progress in AWS, Ethical Hacking, and building
 - **Exam Prep SCS CO2 AWS Certified Security Specialty (Wyslabs):**  
   Started the course and completed approximately 20%. Covered advanced cloud security concepts, threat modeling in AWS, and hands-on labs for incident response.
 
-## Retro Blog
-- Completed the third installment of my retro blog, discussing the evolution of cybersecurity tools from legacy systems to modern cloud defenses.
+## Retro Blog Post: Case File Number 003 – The Stolen Signal
+- Investigated deauthentication attacks and their impact on network reliability.
+- Analyzed the risks posed by rogue hardware in unauthorized network access.
+- Explored emerging trends in credential theft and methods to mitigate associated risks.
 
 ## Coding on Memo.org
 - Made significant progress in the front-end developer course, focusing on JavaScript fundamentals, DOM manipulation, and responsive design principles.
